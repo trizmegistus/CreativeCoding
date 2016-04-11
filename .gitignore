@@ -10,8 +10,15 @@ Release*/
 *.pyc
 .svn/
 
-# IDE-specific ignore patterns (e.g. user-specific files)
+*.dll
+*.exe
+*.pdb
+*.exp
+*.ilk
+*.lib
+*.aps
 
+ #IDE-specific ignore patterns (e.g. user-specific files)
 #XCode
 *.xcodeproj
 project.pbxproj
